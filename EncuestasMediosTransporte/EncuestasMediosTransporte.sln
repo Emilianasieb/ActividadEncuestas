@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasCMD", "EncuestasCM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasLib", "EncuestasLib\EncuestasLib.csproj", "{3A7F559E-8821-4352-806A-DADEF87932F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasForm", "EncuestasForm\EncuestasForm.csproj", "{C0A58895-F947-40AA-A7CF-89641A77D35F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3A7F559E-8821-4352-806A-DADEF87932F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A7F559E-8821-4352-806A-DADEF87932F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A7F559E-8821-4352-806A-DADEF87932F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A58895-F947-40AA-A7CF-89641A77D35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A58895-F947-40AA-A7CF-89641A77D35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A58895-F947-40AA-A7CF-89641A77D35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A58895-F947-40AA-A7CF-89641A77D35F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
